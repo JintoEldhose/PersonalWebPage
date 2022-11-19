@@ -1,0 +1,10 @@
+.namepad{
+    border-style: solid;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 25px;
+    border-radius: 5px;
+    width: 250px;
+    pointer-events: none;
+    background: rgb(224, 224, 176)
+}
